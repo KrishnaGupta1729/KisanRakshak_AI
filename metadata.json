@@ -1,0 +1,8 @@
+{
+  "name": "Remix AgriScan Diagnostics \u0026 Agronomy Triage",
+  "description": "Front-end prototype featuring a farmer-facing plant disease diagnostic scanner and an internal agronomy operations triage dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
