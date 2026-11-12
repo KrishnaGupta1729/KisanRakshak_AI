@@ -3,4 +3,4 @@ KisanRakshak AI is an intelligent early-warning and decision-support system that
 <br>
 Contributors - Krishna Kumar Gupta , Hardik Dhawan , Anushka , Nikhil , Deepika 
 
-[Live Demo] https://remix-agriscan-diagnostics-agronomy-triage-7374.ai.studio
+[Live Demo](https://remix-agriscan-diagnostics-agronomy-triage-7374.ai.studio)
